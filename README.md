@@ -1,2 +1,2 @@
 # WikiBot
-This is a bot for Bale messenger and get language and search query. Then it searchs via internet and lists the possible links.
+This is a bot for Bale messenger. it gets language and search query then searchs via internet and lists the possible links.
